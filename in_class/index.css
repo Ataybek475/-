@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+   background-image: url("https://m.media-amazon.com/images/M/MV5BYWJkNGIzMmQtZDY4Ni00OTdmLWExNjUtMTM1OWU4MGRhNDM5XkEyXkFqcGc@._V1_.jpg");
+    background-repeat:no-repeat;
+    background-size: 100%;
+    height: 2150px;
+    width: 1000px;
+}
+h1{
+    color:firebrick;
+}
+div{
+    background: khaki;
+    height: 50px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
